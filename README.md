@@ -2,6 +2,8 @@
 
 SE Primer, sağlık randevu sistemi krizi üzerinden mimari, test ve KVKK kararlarını öğreten kişiselleştirilmiş mobil web oyunudur.
 
+Çalışan uygulama: <https://serkanubayy.github.io/se-primer-odev/>
+
 ## Çalıştırma
 
 ```bash
