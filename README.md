@@ -28,6 +28,7 @@ Cypress; kişiselleştirme zorunluluğunu, iyi sonu, KVKK ihlalini, testsiz yay�
 - Çalışan uygulama: `src/main.js` ve `src/styles.css`
 - 60 saniyelik demo: [`docs/se-primer-demo-60s.gif`](./docs/se-primer-demo-60s.gif)
 - Teslim özeti: [`TESLIM.md`](./TESLIM.md)
+- Google AI Studio üretim istemi: [`AI_STUDIO_PROMPT.md`](./AI_STUDIO_PROMPT.md)
 
 ## Bilinçli olarak yapılmayan üç özellik
 
